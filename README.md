@@ -2,7 +2,6 @@
 
 <img width="999" alt="Ảnh màn hình 2025-04-05 lúc 18 15 32" src="https://github.com/user-attachments/assets/386263be-ee0d-492f-9d7d-73312a9c27d4" />
 <img width="999" alt="Ảnh màn hình 2025-04-05 lúc 18 15 43" src="https://github.com/user-attachments/assets/ce31b830-a602-4731-b41b-7317ac071202" />
-<img width="1000" alt="Ảnh màn hình 2025-04-05 lúc 18 15 56" src="https://github.com/user-attachments/assets/de2d5ef7-2806-468e-8e3e-7ba06e0e58c5" />
 <img width="1005" alt="Ảnh màn hình 2025-04-05 lúc 18 16 13" src="https://github.com/user-attachments/assets/6e6fd30c-c2f9-47cc-9863-bfb4f36ef4d3" />
 <img width="1007" alt="Ảnh màn hình 2025-04-05 lúc 18 16 30" src="https://github.com/user-attachments/assets/733277fa-9192-4930-a945-4523f8acdcaa" />
 <img width="1000" alt="Ảnh màn hình 2025-04-05 lúc 18 16 54" src="https://github.com/user-attachments/assets/221b37fe-546a-4235-98b3-2cecb0b18cfb" />
